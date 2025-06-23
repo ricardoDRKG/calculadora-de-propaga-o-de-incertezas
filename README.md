@@ -1,1 +1,0 @@
-# calculadora-de-propaga-o-de-incertezas
