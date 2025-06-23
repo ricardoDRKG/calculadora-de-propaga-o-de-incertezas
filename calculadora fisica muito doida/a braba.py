@@ -1,17 +1,17 @@
 import numpy as np
 
 # Dados conhecidos
-n = 1                 # Número de ventres (adimensional)
-L = 2.51                 # Comprimento do fio no gerador (m)
-m_objeto = 6.3634*10**-2          # Massa do objeto que gera a tensão (kg)
-m_fio = 9.28*10**-4             # Massa do fio (kg)
-l_fio = 2.03           # Comprimento total do fio esticado (m)
+n = ...                 # Número de ventres (adimensional)
+L = ...                 # Comprimento do fio no gerador (m)
+m_objeto = ...        # Massa do objeto que gera a tensão (kg)
+m_fio = ...             # Massa do fio (kg)
+l_fio = ...           # Comprimento total do fio esticado (m)
 
 # Incertezas
-sigma_L = 5*10**-3           # Incerteza do comprimento L (m)
-sigma_m_objeto = 2*10**-3    # Incerteza da massa do objeto (kg)
-sigma_m_fio = 5*10**-6       # Incerteza da massa do fio (kg)
-sigma_l_fio = 5*10**-3       # Incerteza do comprimento do fio (m)
+sigma_L = ...         # Incerteza do comprimento L (m)
+sigma_m_objeto = ...    # Incerteza da massa do objeto (kg)
+sigma_m_fio = ...      # Incerteza da massa do fio (kg)
+sigma_l_fio = ...      # Incerteza do comprimento do fio (m)
 
 # Constante da gravidade
 g = 9.8  # m/s²
